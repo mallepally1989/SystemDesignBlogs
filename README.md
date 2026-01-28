@@ -2,7 +2,6 @@
 
 Top 30 engineering blogs to improve at system design in 2026:
 
-
 1. Netflix Tech Blog: https://lnkd.in/dEZMif_R
 2. Uber Engineering: http://eng.uber.com/
 3. Cloudflare Blog: https://lnkd.in/d-krDkAy
