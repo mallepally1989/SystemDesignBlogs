@@ -95,3 +95,4 @@ Top 30 engineering blogs to improve at system design in 2026:
 
 20 API Versioning - A Deep Dive
 ↳ https://lnkd.in/eg_fmBhu
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/c49a38c5-2cd0-4edc-8dba-cc5c02a3347e" />
