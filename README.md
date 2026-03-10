@@ -228,6 +228,61 @@ Top 30 engineering blogs to improve at system design in 2026:
 19 How LLMs Like ChatGPT Actually Work:
 ↳ https://lnkd.in/eSd6fS7n
 
+
+# 50 Days of SQL (Full Course)
+
+Day 1 - https://lnkd.in/ejUn3DAj
+Day 2 - https://lnkd.in/ecgrbPi5
+Day 3 - https://lnkd.in/gZJf9GwQ
+Day 4 - https://lnkd.in/guUygU_Y
+Day 5 - https://lnkd.in/gQYxpSVE
+Day 6 - https://lnkd.in/ggVny4dp
+Day 7 - https://lnkd.in/gkPD9cyi
+Day 8 - https://lnkd.in/g5YQqu5P
+Day 9 - https://lnkd.in/g7dwKZRt
+Day 10 - https://lnkd.in/gus2WAUy
+Day 11 - https://lnkd.in/g4jng5SS
+Day 12 - https://lnkd.in/ghB6A2dN
+Day 13 - https://lnkd.in/gvw2qavY
+Day 14 - https://lnkd.in/g3azGpZy
+Day 15 - https://lnkd.in/gnT_dmT9
+Day 16 - https://lnkd.in/geHtefpe
+Day 17 - https://lnkd.in/gVm9nAVu
+Day 18 - https://lnkd.in/g3WtXUy8
+Day 19 - https://lnkd.in/gjriAcHu
+Day 20 - https://lnkd.in/gm9NaZ_k
+Day 21 - https://lnkd.in/gbM6zbas
+Day 22 - https://lnkd.in/gpdgbYud
+Day 23 - https://lnkd.in/g_uNcBUd
+Day 24 - https://lnkd.in/g49nF4P7
+Day 25 - https://lnkd.in/gEGvyUZm
+Day 26 - https://lnkd.in/g9-Ea8Ga
+Day 27 - https://lnkd.in/gfve_Fwn
+Day 28 - https://lnkd.in/gYyndx-j
+Day 29 - https://lnkd.in/gVMSAvwM
+Day 30 - https://lnkd.in/g3qhn5Nc
+Day 31 - https://lnkd.in/gqH8Yqyz
+Day 32 - https://lnkd.in/gVyB5skH
+Day 33 - https://lnkd.in/gs5-fipa
+Day 34 - https://lnkd.in/gaj-PP-Y
+Day 35 - https://lnkd.in/gNbZGSgn
+Day 36 - https://lnkd.in/gj3i7i_B
+Day 37 - https://lnkd.in/gZV49caT
+Day 38 - https://lnkd.in/gfzYtNrs
+Day 39 - https://lnkd.in/gemfx3Ss
+Day 40 - https://lnkd.in/gpQCdcF7
+Day 41 - https://lnkd.in/g_5QipCN
+Day 42 - https://lnkd.in/gwuBVysy
+Day 43 - https://lnkd.in/geVyeBF3
+Day 44 - https://lnkd.in/gkJue4GB
+Day 45 - https://lnkd.in/geTKfRCi
+Day 46 - https://lnkd.in/g6EgyafR
+Day 47 - https://lnkd.in/g_m6J4gi
+Day 48 - https://lnkd.in/gDcHz7Xe
+Day 49 - https://lnkd.in/gXuKNjG7
+Day 50 - https://lnkd.in/gxxJvAYw
+
+
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/856e414c-5e18-4d08-9542-798f65cd2f38" />
 
 
