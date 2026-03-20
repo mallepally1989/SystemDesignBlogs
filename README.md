@@ -624,4 +624,66 @@ Monitoring
 
 API throttling
 
+# I wrote 30 articles for 30 system design concepts:
 
+1. JWT: https://lnkd.in/gdF2ce3K
+
+2. gRPC: https://lnkd.in/gzmpF_b3
+
+3. Microservices: https://lnkd.in/gWJGQ4TH
+
+PS - if you want a structured path, get our FREE 142-page System Design Handbook when you join our free weekly newsletter → https://lnkd.in/gueNmru7
+
+4. ACID vs BASE: https://lnkd.in/g2Cw_NZX
+
+5. Rate limiting: https://lnkd.in/gFe2knKy
+
+6. Event-driven architecture: https://lnkd.in/gNcjhsST
+
+7. System design quality attributes: https://lnkd.in/gxmr9SMD
+
+8. Idempotency: https://lnkd.in/gj5YZCKs
+
+9. Network protocols: https://lnkd.in/g-8uPmnY
+
+10. Observability: https://lnkd.in/gdvfWN-Y
+
+11. Change Data Capture (CDC): https://lnkd.in/giRj-4Sk
+
+12. CI/CD pipelines: https://lnkd.in/gjYE-XZx
+
+13. Database types: https://lnkd.in/g3qra9q4
+
+14. CAP theorem: https://lnkd.in/gfmFvVMP
+
+15. Health checks vs heartbeats: https://lnkd.in/gurQrfYF
+
+16. API gateway vs load balancer vs reverse proxy: https://lnkd.in/gb7RZvQN
+
+17. HTTPS: https://lnkd.in/gS-Q9jBn
+
+18. Load balancing algorithms: https://lnkd.in/g3MiDnUc
+
+19. Database caching: https://lnkd.in/g3n3b9JE
+
+21. API protocols: https://lnkd.in/gqwB-3Bc
+
+21. CDN: https://lnkd.in/gdB63sSx
+
+22. Database types: https://lnkd.in/g3qra9q4
+
+23. Message Queues: https://lnkd.in/g6SEbyJb
+
+24. Password storage & hashing: https://lnkd.in/g4XwC2dR
+
+25. Service Discovery: https://lnkd.in/gQnHtbRV
+
+26. Pub/Sub: https://lnkd.in/gNWadRiv
+
+27. Connection pooling: https://lnkd.in/ga3dVMpK
+
+28. Forward proxy vs reverse proxy: https://lnkd.in/gtudmXdz
+
+29. Consistent hashing: https://lnkd.in/gY-hpmZW
+
+30. SQL vs NoSQL:https://lnkd.in/gVvBWQRc
