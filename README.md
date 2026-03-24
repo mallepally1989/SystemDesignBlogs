@@ -741,3 +741,43 @@ PS - if you want a structured path, get our FREE 142-page System Design Handbook
 3. Design Whatsapp
 4. Design Insta/Twitter News Feed
 5. Design Search Autocomplete
+
+
+# Roadmap to Start Your MCP Journey:
+FREE MCP Course by Microsoft for Beginners:
+If you’re serious about being early in this space, start here:
+
+- Introduction to Model Context Protocol (MCP):
+https://lnkd.in/gFCBwCie
+
+- MCP core concepts:
+https://lnkd.in/gvFUM2J5
+
+- MCP security best practices:
+https://lnkd.in/gKb3Ujhx
+
+- Build your first MCP server:
+https://lnkd.in/g2mB7_Pp
+
+- How to build, test & deploy MCP apps with real tools:
+https://lnkd.in/gfUBP8Fk
+
+- Advanced MCP: Secure, scalable, and multi-modal AI agents:
+https://lnkd.in/gQmcPnn5
+
+- Contribute to MCP: Tools, docs, code & more:
+https://lnkd.in/gwhV378G
+
+- Lessons from MCP early adopters:
+https://lnkd.in/gRtRVQq6
+
+- MCP development best practices:
+https://lnkd.in/gw7QByYt
+
+- MCP in action: Real-world case studies:
+https://lnkd.in/gtwfnDTw
+
+- Build AI agents in VS Code (Hands-on Labs):
+https://lnkd.in/gQHcc6mM
+
+Full Course (Lessons 1–11) M
