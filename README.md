@@ -781,3 +781,61 @@ https://lnkd.in/gtwfnDTw
 https://lnkd.in/gQHcc6mM
 
 Full Course (Lessons 1–11) M
+
+## Kubernetes
+If you're starting to build your expertise in kubernetes, here are 4 projects I'd recommend
+(Covers modern DevOps and AI workloads)
+
+Focus on architecture and system thinking, not just the tools.
+
+⸻
+1. CI/CD Pipeline (Beginner Level)
+↳ Automate build, test, and deployment processes.
+↳ Use Jenkins for CI and Argo CD for CD.
+↳ Implement code quality checks with SonarQube.
+↳ Utilize GitOps for managing application manifests.
+
+Tutorial: https://lnkd.in/dn6k_4pD
+Focus on automation patterns, not just the tools. Demonstrate end-to-end workflow thinking.
+
+⸻
+
+2. End-to-End Kubernetes DevSecOps Project (Intermediate Level)
+↳ Build a full DevSecOps pipeline around a containerized application.
+↳ Integrate CI/CD, container scanning, and Kubernetes deployment.
+↳ Apply security checks within the pipeline.
+↳ Deploy and manage workloads in a Kubernetes cluster.
+
+Project: https://lnkd.in/dKNsiQ-g
+Focus on how security integrates into CI/CD pipelines across the entire application lifecycle.
+
+⸻
+
+3. Kubernetes Gateway API Architecture (Advanced Level)
+↳ Understand the next-generation replacement for Ingress.
+↳ Learn how GatewayClass, Gateway, and Routes structure traffic management.
+↳ Explore platform vs application networking responsibilities.
+↳ Design flexible traffic routing for microservices.
+
+Guide: https://lnkd.in/gp8ZJCuY
+Focus on the architecture of Kubernetes networking rather than just configuration syntax.
+
+⸻
+
+4. vLLM Deployment on Kubernetes (Advanced Level)
+↳ Deploy high-performance LLM inference workloads.
+↳ Understand GPU-based model serving patterns.
+↳ Integrate AI workloads into Kubernetes infrastructure.
+↳ Explore scalable inference architectures.
+
+Example: https://lnkd.in/gWBe2bNc
+Focus on how ML inference systems integrate with container orchestration platforms.
+
+⸻
+
+In a nutshell:
+These aren't abstract exercises.
+These are solutions to real operational challenges.
+These demonstrate depth in cloud architecture, and integrated DevOps workflows.
+
+Pick one project, build it end-to-end, and push it to git..
