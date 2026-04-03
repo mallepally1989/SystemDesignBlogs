@@ -839,3 +839,100 @@ These are solutions to real operational challenges.
 These demonstrate depth in cloud architecture, and integrated DevOps workflows.
 
 Pick one project, build it end-to-end, and push it to git..
+
+
+All free. Here are all 13 links (+ my own guides):
+
+1. Go to each link below. Enroll. It's free.
+2. But honestly? My newsletter covers it better.
+3. I'll explain at the end. Start with the official ones:
+
+---
+
+1 - Claude 101. Learn Claude for everyday work.
+↳ https://lnkd.in/dC7zr72A
+
+2 - AI Fluency: Frameworks & Foundations.
+↳ https://lnkd.in/dU5eysr4
+
+3 - Introduction to Agent Skills.
+↳ https://lnkd.in/d6RrA7Ai
+
+4 - Building with the Claude API.
+↳ https://lnkd.in/dPz55NVC
+
+5 - Claude Code in Action.
+↳ https://lnkd.in/da6K773C
+
+6 - Intro to Model Context Protocol.
+↳ https://lnkd.in/dmBiRgVj
+
+7 - MCP: Advanced Topics.
+↳ https://lnkd.in/dQaZUp4K
+
+8 - AI Fluency for Students.
+↳ https://lnkd.in/dtV3t-yu
+
+9 - AI Fluency for Educators.
+↳ https://lnkd.in/dSsTb_T9
+
+10 - Teaching AI Fluency.
+↳ https://lnkd.in/dUQWvEQQ
+
+11 - AI Fluency for Nonprofits.
+↳ https://lnkd.in/dm2G7Kh4
+
+12 - Claude with Amazon Bedrock.
+↳ https://lnkd.in/dH847DjB
+
+13 - Claude with Google Cloud's Vertex AI.
+↳ https://lnkd.in/dJpZnq-b
+
+---
+
+Official courses are good. But they're theoretical.
+I wrote how-to guides that show you what to do.
+
+Here's how to master Claude (for free):
+
+1. Start here: how-to-claude.ai
+☑ The basics of Claude.
+☑ How to prompt it the right way.
+☑ The different types of Claude to master.
+
+2. Move to Cowork: claude-co.work
+☑ The more advanced Claude is Claude Cowork.
+☑ How to prompt it and set it up properly.
+☑ It's a long process. But worth every minute.
+
+3. Set up Claude for teams: how-claude.team
+☑ Setting up Claude for teams is different.
+☑ This is the easiest 5-day plan I could find.
+☑ 5 steps so your team runs on Claude in a week.
+
+4. Use Claude Skills: https://lnkd.in/dq6xHS4p
+☑ Stop prompting, build your first skill.
+☑ 7 favourite hacks of Claude Skills.
+☑ Access Claude's team skills.
+
+5. Claude Computer: https://lnkd.in/dv5wVH3S
+☑ Access Claude Computer.
+☑ Use cases of Claude Computer.
+☑ Schedule tasks with Claude.
+
+6. Claude Code: https://lnkd.in/d4qamGtM
+☑ English is the new code.
+☑ Code 100x faster.
+☑ Prompt Claude Code the right way.
+
+7. Bonus (to go even deeper).
+☑ Claude for Excel.
+☑ Claude interactive charts.
+☑ How to move from ChatGPT to Claude.
+
+---
+
+# All of this is free. Here's how to get it:
+1. Go to how-to-ai.guide. Add your email.
+2. A pop-up will ask you to pay. Do not pay.
+3. Open my welcome email & enjoy the free guides.
