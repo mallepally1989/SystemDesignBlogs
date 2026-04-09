@@ -936,3 +936,75 @@ Here's how to master Claude (for free):
 1. Go to how-to-ai.guide. Add your email.
 2. A pop-up will ask you to pay. Do not pay.
 3. Open my welcome email & enjoy the free guides.
+
+# Anthropic just launched the Claude Certified Architect exam.
+
+Here's every resource you need to prepare, in one place.
+
+The core 3 (start here before anything else):
+
+1. Register for the exam
+Link: https://lnkd.in/gpTPe-5N
+Do this first. Early access seats are limited and you want to lock in a date before you start studying it creates a deadline that actually works.
+
+2. Download the official exam guide
+Link: https://lnkd.in/gut23RQ3
+Read this before anything else. It maps exactly what's tested. I spent 2 hours going through it and eliminated 6 resources from my list immediately.
+
+3. Claude cookbook (Anthropic)
+Link: https://lnkd.in/gg3sgx-t
+Not a course. Better than most courses. The actual patterns Anthropic uses in production. I reference this more than anything else when I'm building.
+
+The technical stack (based on what you're building):
+
+1. Claude 101
+Link: https://lnkd.in/gvx6-2xK
+Learn the basics of using Claude for everyday work.
+
+2. AI Fluency: Framework & Foundations
+Link: https://lnkd.in/g9jQNBx5
+Build a strong foundation in AI thinking.
+
+3 Introduction to Agent Skills
+Link: https://lnkd.in/gauYkyUd
+Create and share reusable Skills in Claude Code.
+
+4. Building with the Claude API
+Link: https://lnkd.in/gNrhXX-8
+If function calling and tool use are on the exam (they are), this is the resource. Covers streaming, SDKs, and the patterns that actually work at scale.
+
+5. Claude Code in Action
+Link: https://lnkd.in/gxn_8-dx
+Hands-on guide to using Claude Code in a real dev workflow. If you're not building with Claude Code yet, this will change that.
+
+6. Intro to Model Context Protocol
+Link: https://lnkd.in/gd_i6DEN
+MCP is now the standard for connecting models to external tools and systems. You need to understand it before the exam and before shipping anything production-grade.
+
+7. MCP: Advanced Topics
+Link: https://lnkd.in/gEtKbp6X
+Go deeper with sampling, notifications, and production setups.
+
+8. AI Fluency for Students
+Link: https://lnkd.in/g4e6CSXt
+Use AI for learning, career planning, and academics.
+
+9. AI Fluency for Educators
+Link: https://lnkd.in/gRvcyuUe
+Apply AI in teaching and institutional strategy.
+
+10. Teaching AI Fluency
+Link: https://lnkd.in/gwkb3JAk
+Ready-made curriculum for instructor-led AI courses.
+
+11. AI Fluency for Nonprofits
+Link: https://lnkd.in/gxzantje
+Use AI to boost impact while staying mission-focused.
+
+12. Claude with Amazon Bedrock
+Link: https://lnkd.in/grTHgn_B
+AWS accreditation course, open to all.
+
+13. Claude with Google Cloud Vertex AI
+Link: https://lnkd.in/gdV-2J-9
+Set up and run Claude through Google Cloud.
