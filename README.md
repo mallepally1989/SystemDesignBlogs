@@ -1008,3 +1008,36 @@ AWS accreditation course, open to all.
 13. Claude with Google Cloud Vertex AI
 Link: https://lnkd.in/gdV-2J-9
 Set up and run Claude through Google Cloud.
+
+
+# 𝗧𝗵𝗲𝘀𝗲 𝗙𝗿𝗲𝗲 .𝗡𝗘𝗧 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗮𝗿𝗲 𝗕𝗲𝘁𝘁𝗲𝗿 𝗧𝗵𝗮𝗻 $𝟱𝟬𝟬 𝗖𝗼𝘂𝗿𝘀𝗲𝘀
+
+25,000+ developers have already downloaded my .NET free resources and roadmaps.
+
+👉 150 Questions to prepare for .NET Interviews: ASP .NET Core, EF Core, C# questions. Get PDF for free:
+↳ https://lnkd.in/dneJF2aZ
+
+👉 I've compiled 650+ hand-picked resources for mastering C#, .NET, ASP .NET Core, EF Core, and Microservices. Get PDF for free:
+↳ https://lnkd.in/dY58GuYX
+
+Inside, you'll find carefully selected resources:
+📌 Official docs, tutorials, and guides
+📌 Best blogs, videos
+
+👉 Download my .NET Modular Monolith Project Template. Save 120+ hours on setup and development. Production-ready code with the most modern .NET stack:
+↳ https://lnkd.in/dfJnV8fn
+
+👉 Download my .NET 2026 Backend Roadmap, learn exactly what top employers are looking for. Roadmap contains high-quality resources for every topic:
+↳ https://lnkd.in/dPcxsnmx
+
+👉 Want to get better in ASP .NET Core? Download my 2026 Roadmap with high-quality resources for every topic:
+↳ https://lnkd.in/dJ7MFuXR
+
+👉 Want to get better in EF Core? Download my EF Core 2026 Roadmap with high-quality resources for every topic:
+↳ https://lnkd.in/dE89iMNM
+
+👉 Want to get better in Microservices? Download my Microservices 2026 Roadmap with high-quality resources for every topic:
+↳ https://lnkd.in/dT6WxxAU
+
+👉 I've compiled every C# feature and 200+ hand-picked topics, including the latest features in C# from 5 to 15:
+↳ https://lnkd.in/dfua5zFf
