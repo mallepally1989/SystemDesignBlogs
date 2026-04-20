@@ -1041,3 +1041,34 @@ Inside, you'll find carefully selected resources:
 
 👉 I've compiled every C# feature and 200+ hand-picked topics, including the latest features in C# from 5 to 15:
 ↳ https://lnkd.in/dfua5zFf
+
+
+# You don't need a $3K bootcamp to understand AI agents. 
+
+It's sitting on Google's website; free, certified, and mostly ignored…
+
+It covers LLMs, prompt engineering, responsible AI, Vertex AI, and more.
+
+If you're serious about building agents, these 10 free courses fill the gaps most tutorials leave behind.
+
+1. Google AI Essentials Learn to use AI tools for daily tasks: drafting, research, brainstorming. No experience needed: https://lnkd.in/eX2dJQ8b
+
+2. Introduction to Generative AI Covers what gen AI actually is, how it works, and where it's being applied across industries: https://lnkd.in/eGZ7ZBgm
+
+3. Intro to Large Language Models (LLMs) The brain behind AI agents. Understand how they work and how to tune them for better outputs: https://lnkd.in/eXGsXF7v
+
+4. Introduction to Responsible AI Fairness, bias, privacy. If you're building agents that interact with people, this matters: https://lnkd.in/ebqVhkqY
+
+5. Google Prompting Essentials Better prompts = better agents. Learn Gems, Deep Research, and structured prompting with Gemini: https://lnkd.in/e4dK3PnG
+
+6. Gemini for Google Workspace Use AI inside Gmail, Docs, and Sheets — practical for anyone building productivity agents: https://lnkd.in/eMj-WASZ
+
+7. Machine Learning Crash Course Covers ML fundamentals with TensorFlow. Good foundation before building agentic pipelines: https://lnkd.in/emfEaSUN
+
+8. Intro to Vertex AI Studio Build and deploy ML models on Google's end-to-end AI platform. Hands-on from day one: https://lnkd.in/e_CiEZpw
+
+9. AI for Business Leaders How to drive AI adoption across teams and evaluate AI use cases — useful if you're managing agents at scale: https://lnkd.in/enjpnwSz
+
+10. Kickstarting App Dev with Gemini Code Assist Use AI to write, debug, and ship code faster. Real-world dev workflow with Google's coding agent: https://lnkd.in/ebiTTTsq
+
+If you want to understand AI agent concepts deeper, my free newsletter breaks down everything you need to know: https://lnkd.in/esJDdA5Q
